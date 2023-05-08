@@ -1,2 +1,2 @@
 # javascript
- Cruso de JS do CursoemVideo
+ Cruso de JS do Rockeseat
