@@ -1,0 +1,9 @@
+# A importancia da sintaxe
+
+*Toda linguagem tem uma sintaxe
+*Uma boa comunicação necessita uma boa sintaxe
+*82% dos erros de iniciantes estao na sintaxe
+
+```js
+    console.log("bem vindo ao Starter")
+```
